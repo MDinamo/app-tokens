@@ -839,9 +839,17 @@
       "chainId": 369,
       "name": "Mintra",
       "address": "0x207e6b4529840A4fd518f73c68bc9c19B2A15944",
-      "symbol": "MINT",
+      "symbol": "DNM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/main/token-logo/0x207e6b4529840A4fd518f73c68bc9c19B2A15944.png"
+    }, 
+        {
+      "chainId": 369,
+      "name": "Dinamo",
+      "address": "0x3E410be656F9461Da93711D1059fffE588815b5a",
+      "symbol": "DNM",
+      "decimals": 18,
+      "logoURI": "token-logo/IMG-20231021-WA0000.jpg"
     }
   ],
   "logoURI": "https://raw.githubusercontent.com/piteasio/app-tokens/b64902ec5dabeb212d5c856bcd9c215cb44d1c7e/piteas-icon.svg"
